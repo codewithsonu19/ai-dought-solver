@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "subject": "Maths",
+    "class_level": 2,
+    "board": "CBSE",
+    "topic": "Addition and Word Problems",
+    "doubt": "Ravi has 7 red apples. His grandmother gives him 5 green apples. How many apples does Ravi have altogether?",
+    "target_grade_band": "primary"
+  },
+  {
+    "id": 2,
+    "subject": "Maths",
+    "class_level": 10,
+    "board": "CBSE",
+    "topic": "Quadratic Equations",
+    "doubt": "Find the roots of the quadratic equation 2x^2 - 7x + 3 = 0 using the quadratic formula, and state the nature of the roots.",
+    "target_grade_band": "secondary"
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "class_level": 8,
+    "board": "NCERT / CBSE",
+    "topic": "Combustion and Flame",
+    "doubt": "Why is water not used to extinguish fires involving electrical equipment or oil spills? What is the best extinguishing agent instead?",
+    "target_grade_band": "middle"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "class_level": 12,
+    "board": "CBSE",
+    "topic": "Physics - Electromagnetic Induction",
+    "doubt": "State Faraday's laws of electromagnetic induction and Lenz's law. A circular coil of 200 turns and radius 10 cm is placed in a uniform magnetic field of 0.5 T perpendicular to the plane. If the field is reduced to zero in 0.1 s, calculate the induced EMF.",
+    "target_grade_band": "senior"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "class_level": 3,
+    "board": "ICSE",
+    "topic": "Parts of Speech - Nouns & Adjectives",
+    "doubt": "In the sentence 'The fluffy white bunny hopped quickly into the green garden', identify the naming words (nouns) and describing words (adjectives).",
+    "target_grade_band": "primary"
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "class_level": 10,
+    "board": "CBSE",
+    "topic": "Active and Passive Voice / Reported Speech",
+    "doubt": "Convert the following sentence into passive voice: 'The students have submitted all their science assignments to the principal.' Explain the rule for changing the present perfect tense.",
+    "target_grade_band": "secondary"
+  },
+  {
+    "id": 7,
+    "subject": "Hindi",
+    "class_level": 4,
+    "board": "State Board",
+    "topic": "Vilom Shabd (Antonyms) aur Sangya",
+    "doubt": "सूरज, रात, दोस्त, और जीत - इन शब्दों के विलोम (उलटे अर्थ वाले) शब्द क्या होंगे? एक सरल वाक्य बनाकर समझाइए।",
+    "target_grade_band": "primary"
+  },
+  {
+    "id": 8,
+    "subject": "Hindi",
+    "class_level": 9,
+    "board": "CBSE",
+    "topic": "Sandhi aur Samas",
+    "doubt": "'सूर्योदय' और 'हिमालय' का संधि-विच्छेद कीजिए और बताइए कि इनमें कौन-सी संधि है। साथ ही 'राजपुत्र' में कौन-सा समास है?",
+    "target_grade_band": "secondary"
+  },
+  {
+    "id": 9,
+    "subject": "Social Science",
+    "class_level": 7,
+    "board": "NCERT / CBSE",
+    "topic": "Geography - Water Cycle and Tides",
+    "doubt": "What causes ocean tides, and why do spring tides and neap tides occur? Explain the role of the Moon and the Sun's gravitational pull.",
+    "target_grade_band": "middle"
+  },
+  {
+    "id": 10,
+    "subject": "Social Science",
+    "class_level": 10,
+    "board": "CBSE",
+    "topic": "History - Nationalism in India",
+    "doubt": "Why did Mahatma Gandhi decide to withdraw the Non-Cooperation Movement in February 1922? Explain the significance of the Chauri Chaura incident.",
+    "target_grade_band": "secondary"
+  }
+]
