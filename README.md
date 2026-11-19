@@ -255,3 +255,4 @@ The app includes `sample_doubts.json` featuring 10 doubts across 5 key subjects:
 
 ## 📄 License
 MIT License. Built with ❤️ for students across India.
+"# AI-dought-solver" 
